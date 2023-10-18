@@ -1,8 +1,6 @@
-# React + Vite
+<h1>used in this project:</h1>
+1.rapidAi to get the summary response <br/>
+2.redux tool kit query to handle api request <br/>
+3.tailwind css to help in styling <br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo -> https://mo634.github.io/ai-summarizer/<br/>
