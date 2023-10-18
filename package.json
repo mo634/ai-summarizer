@@ -1,11 +1,11 @@
 {
-  "homepage": "https://github.com/mo634/ai-summarizer",
+  "homepage": "https://github.com/mo634/ai-summarizer/",
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
